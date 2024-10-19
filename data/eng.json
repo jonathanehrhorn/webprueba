@@ -1,0 +1,75 @@
+{
+  "header": {
+    "txtlogo": "J. EHRHORN",
+    "sec1": "Studies",
+    "sec2": "Experience",
+    "sec3": "Portfolio",
+    "idiomas": {
+      "lengesp": "Spanish (native)",
+      "lengeng": "English Level 2",
+      "lengfr": "French 1"
+    },
+    "btn-search":"Search...",
+    "estudios0": {
+      "img0": "assets/img/banner/code1b.jpg",
+      "tex0": "2022-Now",
+      "text1": "Programming Student at UTN.",
+      "text_btn": "Read more"
+    },
+    "estudios1": {
+      "img0": "assets/img/banner/code2.jpg",
+      "tex0": "2023",
+      "text1": "Argentina Programa 4.0. Courses",
+      "text_btn": "Read more"
+    },
+    "estudios2": {
+      "img0": "assets/img/banner/mobile.png",
+      "tex0": "2024",
+      "text1": "Web Development Course.",
+      "text_btn": "Read more"
+    },
+    "experiencia0": {
+      "img0": "assets/img/portfolio/colors.jpg",
+      "tex0": "Software Development",
+      "text1": "I create a Color Generator",
+      "text_btn": "See at Linkedin &raquo;"
+    },
+    "experiencia1": {
+      "img0": "assets/img/portfolio/task-list.jpg",
+      "tex0": "Software Development",
+      "text1": "I create a task-list",
+      "text_btn": "See at Linkedin &raquo;"
+    },
+    "experiencia2": {
+      "img0": "assets/img/portfolio/run.jpg",
+      "tex0": "Software Development",
+      "text1": "I create a Chronometer",
+      "text_btn": "See at Linkedin &raquo;"
+    },
+    "portfolio0": {
+      "img0": "assets/img/portfolio/colors.jpg",
+      "tex0": "Color Generator",
+      "text1": "Create color palettes for your own projects",
+      "text_btn": "See at Linkedin &raquo;"
+    },
+    "portfolio1": {
+      "img0": "assets/img/portfolio/task-list.jpg",
+      "tex0": "Task-list",
+      "text1": "You won´t forget any detail the whole week",
+      "text_btn": "See at Linkedin &raquo;"
+    },
+    "portfolio2": {
+      "img0": "assets/img/portfolio/run.jpg",
+      "tex0": "Chronometer",
+      "text1": "Control your work-out timing with this app",
+      "text_btn": "See at Linkedin &raquo;"
+    },
+    "footer":{
+      "txt0":"&copy; 2024",
+      "txt1":"Curso gratuito, Argentina Humana. &middot;",
+      "txt2":"Privacy",
+      "txt3":"Terms",
+      "txt4":"Back to top"
+    }
+  }
+}

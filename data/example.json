@@ -1,0 +1,14 @@
+{
+    "nombre":"Juan",
+    "edad":40,
+    "profesion":"Programador",
+    "idioma1":"español",
+    "idioma2":"inglés",
+    "idioma3":"portugues",
+    "idiomas":{
+        "idioma1":"español",
+        "idioma2":"inglés",
+        "idioma3":"portugues",
+        "idioma4":"frances"
+    }
+}

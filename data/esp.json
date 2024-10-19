@@ -1,0 +1,75 @@
+{
+    "header": {
+      "txtlogo": "J. EHRHORN",
+      "sec1": "Estudios",
+      "sec2": "Experiencia",
+      "sec3": "Porfolio",
+      "idiomas": {
+        "lengesp": "Español nativo",
+        "lengeng": "Inglés Level 2",
+        "lengfr": "Francés 1"
+      },
+      "btn-search":"Buscar...",
+      "estudios0": {
+        "img0": "assets/img/banner/code1b.jpg",
+        "tex0": "2022-Actualidad",
+        "text1": "Estudiante de Programación en la UTN.",
+        "text_btn": "Leer más"
+      },
+      "estudios1": {
+        "img0": "assets/img/banner/code2.jpg",
+        "tex0": "2023",
+        "text1": "Formación en Argentina Programa 4.0.",
+        "text_btn": "Leer más"
+      },
+      "estudios2": {
+        "img0": "assets/img/banner/mobile.png",
+        "tex0": "2024",
+        "text1": "Formación en Curso de Desarrollo Web.",
+        "text_btn": "Leer más"
+      },
+      "experiencia0": {
+        "img0": "assets/img/portfolio/colors.jpg",
+        "tex0": "Desarrollo de Software",
+        "text1": "Creación de Generador de Colores.",
+        "text_btn": "Ver en Linkedin &raquo;"
+      },
+      "experiencia1": {
+        "img0": "assets/img/portfolio/task-list.jpg",
+        "tex0": "Desarrollo de Software",
+        "text1": "Creación de Lista de Tareas.",
+        "text_btn": "Ver en Linkedin &raquo;"
+      },
+      "experiencia2": {
+        "img0": "assets/img/portfolio/run.jpg",
+        "tex0": "Desarrollo de Software",
+        "text1": "Creación de Cronómetro.",
+        "text_btn": "Ver en Linkedin &raquo;"
+      },
+      "portfolio0": {
+        "img0": "assets/img/portfolio/colors.jpg",
+        "tex0": "Generador de Colores",
+        "text1": "Crea paletas de colores para usar en tus proyectos.",
+        "text_btn": "Ver en Linkedin &raquo;"
+      },
+      "portfolio1": {
+        "img0": "assets/img/portfolio/task-list.jpg",
+        "tex0": "Lista de Tareas",
+        "text1": "Para que ningún detalle se te olvide en la semana.",
+        "text_btn": "Ver en Linkedin &raquo;"
+      },
+      "portfolio2": {
+        "img0": "assets/img/portfolio/run.jpg",
+        "tex0": "Cronómetro",
+        "text1": "Controla tu tiempo de entrenamiento con esta aplicación.",
+        "text_btn": "Ver en Linkedin &raquo;"
+      },
+      "footer":{
+        "txt0":"&copy; 2024",
+        "txt1":"Curso gratuito, Argentina Humana. &middot;",
+        "txt2":"Privacy",
+        "txt3":"Terms",
+        "txt4":"Subir"
+      }
+    }
+}
