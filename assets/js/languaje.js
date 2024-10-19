@@ -1,13 +1,13 @@
 
 function setLeng(idioma){
     let service = '';
-    let url = '../../data/esp.json'; 
+    let url = '/webprueba/data/esp.json'; 
     if(idioma==='esp'){
         $('#lengeng').removeClass('active');
         $('#lengesp').addClass('active');
         service = 'esp';
     }else if(idioma==='eng'){
-        url = '../../data/eng.json';
+        url = '/webprueba/data/eng.json';
         $('#lengesp').removeClass('active');
         $('#lengeng').addClass('active');
         service = 'eng';
